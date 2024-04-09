@@ -1,0 +1,18 @@
+.App {
+  background-image: linear-gradient(135deg, #c3aed1 10%, #4de854 100%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.image-upload {
+  display: block;
+  width: 150vh;
+  height: 80vh;
+  border-radius: 15px;
+  background-color: rgba(226, 218, 218, 0.5);
+  box-shadow: 5px 10px 8px rgba(0, 0, 0, 0.2);
+}
